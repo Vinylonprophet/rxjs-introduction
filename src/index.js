@@ -2,8 +2,8 @@
  * @Author: Vinylonprophet 915390118@qq.com
  * @Date: 2022-11-17 14:58:05
  * @LastEditors: Vinylonprophet 915390118@qq.com
- * @LastEditTime: 2022-11-17 15:13:31
- * @FilePath: \rxjs-introduction\src\index.js
+ * @LastEditTime: 2022-11-17 15:33:55
+ * @FilePath: \rxjs-introduction\src\index.ts
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
 // 基本使用
@@ -32,3 +32,7 @@
 
 // forkJoin是Rx版本的promise.all()，表示等到所有的Observable都完成之后，才一次性返回值
 // import './rxjs/chapter8.ts';
+
+// 辅助方法fromEvent
+// 操作符pluck，获取数据流对象中的属性值
+import './rxjs/chapter9.js'
