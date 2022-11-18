@@ -2,7 +2,15 @@
  * @Author: Vinylonprophet 915390118@qq.com
  * @Date: 2022-11-17 14:58:05
  * @LastEditors: Vinylonprophet 915390118@qq.com
- * @LastEditTime: 2022-11-17 15:33:55
+ * @LastEditTime: 2022-11-18 11:23:20
+ * @FilePath: \rxjs-introduction\src\index.js
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ */
+/*
+ * @Author: Vinylonprophet 915390118@qq.com
+ * @Date: 2022-11-17 14:58:05
+ * @LastEditors: Vinylonprophet 915390118@qq.com
+ * @LastEditTime: 2022-11-18 11:21:39
  * @FilePath: \rxjs-introduction\src\index.ts
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -35,4 +43,18 @@
 
 // 辅助方法fromEvent
 // 操作符pluck，获取数据流对象中的属性值
-import './rxjs/chapter9.js'
+// import './rxjs/chapter9.js'
+
+// 辅助方法interval，定时发送数值
+// 操作符switchMap，转换可观察者对象
+// import './rxjs/chapter10'
+
+// 操作符take，takeWhile，takeUntil
+// import './rxjs/chapter11'
+
+// throttleTime，节流
+// debounceTime，防抖
+// import './rxjs/chapter12'
+
+// of，from，
+import './rxjs/chapter13'
