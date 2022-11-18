@@ -2,7 +2,7 @@
  * @Author: Vinylonprophet 915390118@qq.com
  * @Date: 2022-11-17 14:58:05
  * @LastEditors: Vinylonprophet 915390118@qq.com
- * @LastEditTime: 2022-11-18 11:38:39
+ * @LastEditTime: 2022-11-18 14:57:01
  * @FilePath: \rxjs-introduction\src\index.js
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -61,4 +61,10 @@
 // import './rxjs/chapter13'
 
 // 案例练习————元素拖拽
-import './rxjs/chapter14'
+// import './rxjs/chapter14'
+
+// 搜索
+// import './rxjs/chapter15.js'
+
+// 串联请求
+// import './rxjs/chapter16.js'
